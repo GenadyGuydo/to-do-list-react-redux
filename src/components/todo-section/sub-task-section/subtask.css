@@ -1,0 +1,23 @@
+.sub-task{
+  width: 100%;
+}
+
+.sub-task__container{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  background-color: blueviolet;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.sub-task__name{
+ font-size: 15px;
+ font-family: sans-serif;
+ color: aliceblue;
+ width: 60% ;
+ margin: 0 auto;
+ display: flex;
+ align-items: center;
+}
